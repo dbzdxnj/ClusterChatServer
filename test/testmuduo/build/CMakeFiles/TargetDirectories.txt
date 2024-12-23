@@ -1,0 +1,3 @@
+/home/dbzdxnj/c++_project/chat/testmuduo/build/CMakeFiles/server.dir
+/home/dbzdxnj/c++_project/chat/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/dbzdxnj/c++_project/chat/testmuduo/build/CMakeFiles/rebuild_cache.dir
